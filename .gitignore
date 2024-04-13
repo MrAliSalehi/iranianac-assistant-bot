@@ -1,0 +1,7 @@
+/target
+.idea
+*.lock
+.env
+/log
+*.log
+log/

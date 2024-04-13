@@ -1,0 +1,15 @@
+[package]
+name = "lib-common"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+tokio = { workspace = true }
+log = { workspace = true }
+log4rs = { workspace = true }
+eyre = { workspace = true }
+teloxide = { workspace = true }
+lazy_static = { workspace = true }
+dotenv = { workspace = true }
+reqwest = { workspace = true }
